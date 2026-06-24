@@ -1,0 +1,5 @@
+DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,TempPassword,ManagerUPN
+"Erreur UPN",Test,Un,email-invalide,IT,Test,FR,Temp2026!X,
+"Sans pays",Test,Deux,test.deux@contoso.com,IT,Test,,Temp2026!X,
+"Doublon",Jean,Dupont,jean.dupont@contoso.com,IT,Doublon,FR,Temp2026!X,
+"Mot de passe faible",Test,Trois,test.trois@contoso.com,IT,Test,FR,123,

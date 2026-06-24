@@ -1,0 +1,6 @@
+DisplayName,Description,MailNickname,GroupType
+GRP-IT-Admins,Groupe sécurité administrateurs infrastructure,grp-it-admins,Security
+GRP-RH-Utilisateurs,Groupe sécurité département RH,grp-rh-users,Security
+GRP-Commercial-Ventes,Groupe sécurité équipe commerciale,grp-commercial,Security
+TEAM-Projet-Migration,Équipe projet migration M365,team-migration,M365
+GRP-Finance-Acces,Groupe sécurité accès applications finance,grp-finance,Security

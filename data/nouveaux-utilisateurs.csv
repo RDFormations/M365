@@ -1,0 +1,9 @@
+DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,TempPassword,ManagerUPN
+"Jean Dupont",Jean,Dupont,jean.dupont@contoso.com,IT,Administrateur système,FR,Temp2026!Jd,marie.martin@contoso.com
+"Marie Martin",Marie,Martin,marie.martin@contoso.com,IT,Responsable infrastructure,FR,Temp2026!Mm,
+"Sophie Bernard",Sophie,Bernard,sophie.bernard@contoso.com,RH,Chargée de recrutement,FR,Temp2026!Sb,marie.martin@contoso.com
+"Lucas Petit",Lucas,Petit,lucas.petit@contoso.com,Commercial,Account Executive,FR,Temp2026!Lp,sophie.bernard@contoso.com
+"Emma Leroy",Emma,Leroy,emma.leroy@contoso.com,Finance,Contrôleuse de gestion,FR,Temp2026!El,marie.martin@contoso.com
+"Thomas Moreau",Thomas,Moreau,thomas.moreau@contoso.com,IT,Technicien support,FR,Temp2026!Tm,jean.dupont@contoso.com
+"Nina Dubois",Nina,Dubois,nina.dubois@contoso.com,Marketing,Chef de projet digital,FR,Temp2026!Nd,sophie.bernard@contoso.com
+"Paul Girard",Paul,Girard,paul.girard@contoso.com,Commercial,SDR,FR,Temp2026!Pg,sophie.bernard@contoso.com

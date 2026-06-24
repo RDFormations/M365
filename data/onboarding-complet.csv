@@ -1,0 +1,4 @@
+DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,TempPassword,SkuPartNumber,GroupName,ManagerUPN
+"Claire Fontaine",Claire,Fontaine,claire.fontaine@contoso.com,IT,DevOps Engineer,FR,Temp2026!Cf,ENTERPRISEPACK,GRP-IT-Admins,marie.martin@contoso.com
+"Antoine Rousseau",Antoine,Rousseau,antoine.rousseau@contoso.com,Commercial,Business Developer,FR,Temp2026!Ar,SPE_E3,GRP-Commercial-Ventes,sophie.bernard@contoso.com
+"Julie Mercier",Julie,Mercier,julie.mercier@contoso.com,RH,Assistante RH,FR,Temp2026!Jm,ENTERPRISEPACK,GRP-RH-Utilisateurs,sophie.bernard@contoso.com

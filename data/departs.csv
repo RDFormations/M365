@@ -1,0 +1,4 @@
+UserPrincipalName,DateDepart,RevoquerSessions,BloquerCompte,Motif
+lucas.petit@contoso.com,2026-06-15,Oui,Oui,Démission
+paul.girard@contoso.com,2026-06-20,Oui,Oui,Fin de CDD
+thomas.moreau@contoso.com,2026-07-01,Oui,Non,Mutation interne
